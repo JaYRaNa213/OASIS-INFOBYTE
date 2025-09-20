@@ -26,7 +26,29 @@ A responsive VPN landing page inspired by ExpressVPN, designed to showcase produ
 - Call-to-action buttons throughout
 
 ### Screenshots
-<img src ="./landing_page.png">
+<img src ="./landing_page.png" width=900>
+
+### 📂 Landing page Folder Structure
+
+```
+bash
+Copy code
+/project-root
+ 
+├── landing
+│   ├── 1st.jpg
+│   ├── hro.jpg
+│   ├── image.png
+│   ├── index.html
+│   ├── lamp1.png
+│   ├── map.jpg
+│   ├── mobile.png
+│   ├── style.css
+│   └── three.png
+├── landing.rar
+├── landing_page.png
+
+```
 
 ##2️⃣ Portfolio Website
 #### A modern personal portfolio website built to showcase my skills, projects, resume, and contact details.
@@ -44,11 +66,28 @@ Downloadable resume
 
 Scroll animations for smooth experience
 
+
 Screenshots
 
 
 <img src ="./porfolio.png " width=450>
-<img src =".portfolio1.png" width=450>
+<img src ="./portfolio1.png" width=450>
+
+### 📂 Portfolio Folder Structure
+```
+
+
+
+├── porfolio
+│   ├── .vscode
+│   │   └── settings.json
+│   ├── index.css
+│   ├── index.html
+│   └── script.js
+├── porfolio.png
+├── porfolio.rar
+├── portfolio1.png
+```
 
 
 ##3️⃣ Temperature Converter Website
@@ -66,7 +105,7 @@ Smooth animations for result display
 Supports Celsius ↔ Fahrenheit ↔ Kelvin conversions
 
 Screenshots
-<img src ="./temperature.png">
+<img src ="./temperature.png " width=900>
 
 ## 🛠 Technologies Used
 ```
@@ -76,33 +115,15 @@ Portfolio Website	HTML5, CSS3, JavaScript, Scroll Animations, Responsive Design
 Temperature Converter	HTML5, CSS3, JavaScript, DOM Manipulation, Event Handling
 ```
 
-### 📂 Folder Structure
+### 📂  Temperature Folder Structure
 ```
-bash
-Copy code
-/project-root
-  /images
-    vpn_hero.png
-    vpn_secure.png
-    vpn_devices.png
-    vpn_features.png
-    vpn_servers.png
-    portfolio_hero.png
-    portfolio_about.png
-    portfolio_projects.png
-    portfolio_resume.png
-    portfolio_contact.png
-    temperature_converter.png
-    temperature_converter_result.png
-  /vpn
-    index.html
-    style.css
-  /portfolio
-    index.html
-    index.css
-    script.js
-  /temperature-converter
-    index.html
+├── temprature
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── temprature.rar
+└── tree.js
+
 ```
 ## 📌 Contact
 If you’d like to connect or discuss any project:
@@ -124,4 +145,5 @@ If you want, I can also **add live preview GIFs for each task** in the README fo
 
 
 Do you want me to do that next?
+
 

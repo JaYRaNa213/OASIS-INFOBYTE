@@ -27,8 +27,9 @@ A responsive VPN landing page inspired by ExpressVPN, designed to showcase produ
 
 ### Screenshots
 <img src ="./landing_page.png">
+
 ##2️⃣ Portfolio Website
-A modern personal portfolio website built to showcase my skills, projects, resume, and contact details.
+#### A modern personal portfolio website built to showcase my skills, projects, resume, and contact details.
 
 ## Features
 Responsive navbar with smooth scroll
@@ -46,8 +47,8 @@ Scroll animations for smooth experience
 Screenshots
 
 
-
-
+<img src ="./porfolio.png " width=450>
+<img src =".portfolio1.png" width=450>
 
 
 ##3️⃣ Temperature Converter Website
@@ -65,18 +66,18 @@ Smooth animations for result display
 Supports Celsius ↔ Fahrenheit ↔ Kelvin conversions
 
 Screenshots
-
+<img src ="./temperature.png">
 
 ## 🛠 Technologies Used
-``
+```
 Project	Technologies
 VPN Landing Page	HTML5, CSS3, Flexbox, Responsive Design, Media Queries
 Portfolio Website	HTML5, CSS3, JavaScript, Scroll Animations, Responsive Design
 Temperature Converter	HTML5, CSS3, JavaScript, DOM Manipulation, Event Handling
+```
 
+### 📂 Folder Structure
 ```
-```
-📂 Folder Structure
 bash
 Copy code
 /project-root
@@ -123,3 +124,4 @@ If you want, I can also **add live preview GIFs for each task** in the README fo
 
 
 Do you want me to do that next?
+

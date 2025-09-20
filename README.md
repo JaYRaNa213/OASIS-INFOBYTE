@@ -70,7 +70,7 @@ Scroll animations for smooth experience
 #### Screenshots
 
 
-<img src ="./porfolio.png " width=450> <img src ="./portfolio1.png" width=450>
+<img src ="./porfolio.png " width=450>       <img src ="./portfolio1.png" width=450>
 
 
 ### 📂 Portfolio Folder Structure
@@ -145,6 +145,7 @@ If you want, I can also **add live preview GIFs for each task** in the README fo
 
 
 Do you want me to do that next?
+
 
 
 

@@ -50,7 +50,7 @@ Copy code
 
 ```
 
-##2️⃣ Portfolio Website
+## 2️⃣ Portfolio Website
 #### A modern personal portfolio website built to showcase my skills, projects, resume, and contact details.
 
 ## Features
@@ -67,7 +67,7 @@ Downloadable resume
 Scroll animations for smooth experience
 
 
-Screenshots
+#### Screenshots
 
 
 <img src ="./porfolio.png " width=450> <img src ="./portfolio1.png" width=450>
@@ -90,7 +90,7 @@ Screenshots
 ```
 
 
-##3️⃣ Temperature Converter Website
+## 3️⃣ Temperature Converter Website
 A clean and interactive temperature converter web app that converts between Celsius, Fahrenheit, and Kelvin.
 
 ## Features
@@ -104,7 +104,7 @@ Smooth animations for result display
 
 Supports Celsius ↔ Fahrenheit ↔ Kelvin conversions
 
-Screenshots
+#### Screenshots
 <img src ="./temperature.png " width=900>
 
 ## 🛠 Technologies Used
@@ -145,6 +145,7 @@ If you want, I can also **add live preview GIFs for each task** in the README fo
 
 
 Do you want me to do that next?
+
 
 
 
